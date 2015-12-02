@@ -55,10 +55,11 @@ nav{
 	padding: 10px;
 	font-family: Century Gothic, sans-serif;
 	color: black;
+	font-size: 20px;
 }
 
 nav:hover{
-	font-size: 20px;
+	font-size: 25px;
 }
 
 footer{
@@ -67,13 +68,23 @@ footer{
 }
 
 .page3{
-	background-color: #4c6767;
+	background-image: url(http://img03.deviantart.net/591b/i/2013/348/b/5/blurred_maple_custombox_background_by_lablayers-d6xzhi5.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
 }
 
 .p3{
 	text-align: left;
 }
 
+p{
+	font-family: Century Gothic, sans-serif;
+}
+
+a{
+	color: black;
+}
 
 
 
