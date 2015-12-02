@@ -25,7 +25,55 @@ li:hover{
 	background-color: #d2d2ad;
 }
 
+.p2{
+	display: inline;
+	margin: 290px;
+	font-family: Century Gothic, sans-serif;
+	border-style: outset;
+	padding: 10px;
+	border-top-color: black;
+	font-size: 17px;
+}
+
 h1{
 	font-family: Century Gothic, sans-serif;
 	text-align: center;
 }
+
+.page2{
+	background-color: #b3b3b3;
+}
+
+li.p2:hover{
+	background-color: #a6a6a6;
+}
+
+nav{
+	text-align: center;
+	display: block;
+	word-spacing: 590px;
+	padding: 10px;
+	font-family: Century Gothic, sans-serif;
+	color: black;
+}
+
+nav:hover{
+	font-size: 20px;
+}
+
+footer{
+	font-family: Century Gothic, sans-serif;
+	text-align: center;
+}
+
+.page3{
+	background-color: #4c6767;
+}
+
+.p3{
+	text-align: left;
+}
+
+
+
+
