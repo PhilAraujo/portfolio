@@ -4,7 +4,10 @@ img.center{
 }
 
 .page1{
-	background-color: #e4e4ce;
+	background-image: url(https://snap-photos.s3.amazonaws.com/img-thumbs/960w/93AY0FPGUS.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 ul{
@@ -17,8 +20,9 @@ li{
 	font-family: Century Gothic, sans-serif;
 	border-style: outset;
 	padding: 10px;
-	border-top-color: black;
+	border-color: white;
 	font-size: 17px;
+	color: white;
 }
 
 li:hover{
@@ -41,7 +45,10 @@ h1{
 }
 
 .page2{
-	background-color: #b3b3b3;
+	background-image: url(https://snap-photos.s3.amazonaws.com/img-thumbs/960w/UV542Y42CW.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 li.p2:hover{
@@ -54,7 +61,7 @@ nav{
 	word-spacing: 590px;
 	padding: 10px;
 	font-family: Century Gothic, sans-serif;
-	color: black;
+	color: white;
 	font-size: 20px;
 }
 
@@ -65,6 +72,7 @@ nav:hover{
 footer{
 	font-family: Century Gothic, sans-serif;
 	text-align: center;
+	color: white;
 }
 
 .page3{
@@ -83,7 +91,7 @@ p{
 }
 
 a{
-	color: black;
+	color: white;
 }
 
 
