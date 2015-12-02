@@ -1,0 +1,31 @@
+img.center{
+	display: block;
+	margin: 0 auto;
+}
+
+.page1{
+	background-color: #e4e4ce;
+}
+
+p{
+	font-family: Century Gothic, sans-serif;
+	font-size: 25px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li{
+	display: inline;
+	margin: 300px;
+	font-family: Century Gothic, sans-serif;
+	border-style: outset;
+	padding: 10px;
+	border-top-color: black;
+	font-size: 17px;
+}
+
+li:hover{
+	background-color: #d2d2ad;
+}
