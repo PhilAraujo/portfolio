@@ -1,98 +1,11 @@
-img.center{
-	display: block;
-	margin: 0 auto;
-}
-
-.page1{
-	background-image: url(https://snap-photos.s3.amazonaws.com/img-thumbs/960w/93AY0FPGUS.jpg);
-	background-size: 100%;
+body{
+	background-image: url(http://static.thousandwonders.net/Philadelphia.original.10727.jpg);
 	background-repeat: no-repeat;
-	background-attachment: fixed;
-}
-
-ul{
-	list-style-type: none;
-}
-
-li{
-	display: inline;
-	margin: 290px;
-	font-family: Century Gothic, sans-serif;
-	border-style: outset;
-	padding: 10px;
-	border-color: white;
-	font-size: 17px;
-	color: white;
-}
-
-li:hover{
-	background-color: #d2d2ad;
-}
-
-.p2{
-	display: inline;
-	margin: 290px;
-	font-family: Century Gothic, sans-serif;
-	border-style: outset;
-	padding: 10px;
-	border-top-color: black;
-	font-size: 17px;
+	background-size: 100%;
 }
 
 h1{
-	font-family: Century Gothic, sans-serif;
+	font-family: Arial;
+	color: white;
 	text-align: center;
 }
-
-.page2{
-	background-image: url(https://snap-photos.s3.amazonaws.com/img-thumbs/960w/UV542Y42CW.jpg);
-	background-size: 100%;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-}
-
-li.p2:hover{
-	background-color: #a6a6a6;
-}
-
-nav{
-	text-align: center;
-	display: block;
-	word-spacing: 590px;
-	padding: 10px;
-	font-family: Century Gothic, sans-serif;
-	color: white;
-	font-size: 20px;
-}
-
-nav:hover{
-	font-size: 25px;
-}
-
-footer{
-	font-family: Century Gothic, sans-serif;
-	text-align: center;
-	color: white;
-}
-
-.page3{
-	background-image: url(http://img03.deviantart.net/591b/i/2013/348/b/5/blurred_maple_custombox_background_by_lablayers-d6xzhi5.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
-}
-
-.p3{
-	text-align: left;
-}
-
-p{
-	font-family: Century Gothic, sans-serif;
-}
-
-a{
-	color: white;
-}
-
-
-
