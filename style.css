@@ -3,6 +3,11 @@ img.center{
 	margin: 0 auto;
 }
 
+#wrapper{
+	width: 500px;
+	margin: 0 auto;
+}
+
 .page1{
 	background-image: url(https://snap-photos.s3.amazonaws.com/img-thumbs/960w/93AY0FPGUS.jpg);
 	background-size: 100%;
@@ -10,24 +15,30 @@ img.center{
 	background-attachment: fixed;
 }
 
+h1{
+	font-family: Century Gothic, sans-serif;
+	text-align: center;
+}
+
 ul{
 	list-style-type: none;
 }
 
-li{
-	display: inline;
+/*li#id{
+	display: inline-block;
 	margin: 290px;
 	font-family: Century Gothic, sans-serif;
 	border-style: outset;
 	padding: 10px;
 	border-color: white;
-	font-size: 17px;
+	font-size: 20px;
 	color: white;
+}*/
+
+#about{
+	border-style: 
 }
 
-li:hover{
-	background-color: #d2d2ad;
-}
 
 .p2{
 	display: inline;
@@ -39,10 +50,7 @@ li:hover{
 	font-size: 17px;
 }
 
-h1{
-	font-family: Century Gothic, sans-serif;
-	text-align: center;
-}
+
 
 .page2{
 	background-image: url(https://snap-photos.s3.amazonaws.com/img-thumbs/960w/UV542Y42CW.jpg);
@@ -73,6 +81,7 @@ footer{
 	font-family: Century Gothic, sans-serif;
 	text-align: center;
 	color: white;
+	margin-top: 37%;
 }
 
 .page3{
@@ -90,9 +99,16 @@ p{
 	font-family: Century Gothic, sans-serif;
 }
 
-a{
+a {
+	font-family: Century Gothic, sans-serif;
+	position: absolute;
+	width: 100%;
+	margin-top: 15%;
 	color: white;
+	display: inline-block;
 }
+
+
 
 
 
