@@ -42,3 +42,17 @@ li a {
     font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
     font-size: 17px;
 }
+
+.column1, .column2, .column3{
+    width: 437px;
+    float: left;
+    margin: 15px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
+    font-size: 20px;
+}
+
+
+
+
+
