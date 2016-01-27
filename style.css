@@ -1,60 +1,51 @@
-body{
-	background-image: url(http://www.thewallpapers.org/photo/21463/Philadelphia_Skyline2.jpg);
-	background-repeat: no-repeat;
-	background-size: 100%;
-	height: auto;
+body {
+    background-image: url(http://i.stack.imgur.com/baM8y.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: auto;
 }
 
-h1{
-	font-family: Arial;
-	color: white;
-	text-align: center;
+.nav {
+    text-align: center;
 }
 
+h1 {
+    text-align: center;
+    font-family: “Century Gothic”, CenturyGothic, AppleGothic, sans-serif;
+    font-size: 45px;
+    letter-spacing: 5px;
+    font-style: italic;
+}
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    text-align: center;
-	border-style: solid;
-	border-color: white;
-	border-radius: 25px;}
+    border: 3px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
 
 li {
+    text-align: center;
     display: inline-block;
-    width: 45%;
-}
-
-li:hover{
-	background-color: white;
-}
-
-a:hover{
-	color: black;
 }
 
 li a {
-    display: block;
-    color: white;
+    display: inline-block;
+    color: #666;
     text-align: center;
-    padding: 25px 0px;
+    padding: 14px 20px;
     text-decoration: none;
-    font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
-    font-size: 17px;
+    text-align: center;
+    font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
 }
 
-footer{
-	color: white;
-	font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
-   	position: absolute;
-   	bottom: 0;
-   	margin-left: 45%;
+li a:hover:not(.active) {
+    background-color: #ddd;
 }
 
-.img-home{
-    border-radius: 50%;
-    margin: 0 auto;
-
+li a.active {
+    color: white;
+    background-color: #4CAF50;
 }
