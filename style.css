@@ -13,7 +13,7 @@ h1 {
     text-align: center;
     font-family: “Century Gothic”, CenturyGothic, AppleGothic, sans-serif;
     font-size: 45px;
-    letter-spacing: 5px;
+    letter-spacing: 8px;
     font-style: italic;
 }
 
@@ -49,3 +49,51 @@ li a.active {
     color: white;
     background-color: #4CAF50;
 }
+
+.me{
+    height: 230px;
+    width: 280px;
+    border-radius: 50%;
+}
+
+.article1 {
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    margin-top: -50px;
+    margin-left: -100px;
+    font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+    text-align: center;
+}
+
+.article2 {
+    position: absolute;
+    top: 105%;
+    left: 40%;
+    margin-top: -50px;
+    margin-left: -100px;
+    font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+    text-align: center;
+}
+
+.mac {
+    height: 230px;
+    width: 280px;
+    border-radius: 50%;
+}
+
+.footer {
+    top: 155%;
+    position: absolute;
+    bottom: 0;
+    width: 644px;
+    height: 20px;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+    left: 42%;
+}
+
+
+
+
+
